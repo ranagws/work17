@@ -1,0 +1,14 @@
+{
+  "name": "gwswork2017",
+  "version": "1.0.0",
+  "description": "Pensioner database work",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tej Rana",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.1.0"
+  }
+}
