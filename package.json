@@ -9,6 +9,8 @@
   "author": "Tej Rana",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^16.1.0"
+    "hapi": "^16.1.0",
+    "semantic-ui": "^2.2.7",
+    "vue": "^2.1.10"
   }
 }
